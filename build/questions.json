@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "question": "Which team has won the most World Cups?",
+      "options": ["Argentina", "Brazil", "Germany", "Uruguay"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Who is the top scorer in Bundesliga history?",
+      "options": [
+        "Klaus Fischer",
+        "Robert Lewandowski",
+        "Jupp Heynckes",
+        "Gerd Müller"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which goalkeepers have kept the most Champions League clean sheets?",
+      "options": ["Iker Casillas", "Manuel Neuer", "Gianluigi Buffon", "Dida"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Who is the only player to win champions league with 3 different clubs?",
+      "options": [
+        "Thiago Alcantara",
+        "Samuel Eto’o",
+        "Clarence Seedorf",
+        "Marcel Desailly"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which player has scored the most hat-tricks?",
+      "options": [
+        "Cristiano Ronaldo",
+        "Lionel Messi",
+        "Ali Daei",
+        "Sunil Chhetri"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "In football, what is the Puskás Award given for?",
+      "options": [
+        "Best save made",
+        "Best goal scored",
+        "Most goals scored",
+        "Most clean sheets"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which country won the first-ever FIFA World Cup in 1930?",
+      "options": ["Brazil", "West Germany", "Paraguay", "Uruguay"],
+      "correctOption": 3,
+      "points": 30
+    },
+    {
+      "question": "Who is the youngest player to have ever scored a goal in the English Premier League?",
+      "options": [
+        "James Milner",
+        "Cesc Fabregas",
+        "James Vaughan",
+        "Mikael Forssell"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "How many UEFA Champions League titles have Real Madrid won",
+      "options": ["11", "12", "13", "14"],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "Who is the oldest player to have ever played in a FIFA World Cup match?",
+      "options": [
+        "Ángel Labruna",
+        "Ali Boumnijel",
+        "Faryd Mondragón",
+        "Essam El-Hadary"
+      ],
+      "correctOption": 3,
+      "points": 30
+    },
+    {
+      "question": "Which team holds the record for the most consecutive wins in a single English Premier League season?",
+      "options": ["Manchester United", "Chelsea", "Manchester City", "Arsenal"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "Who is the all-time leading goalscorer in the history of the Spanish La Liga?",
+      "options": [
+        "Cristiano Ronaldo",
+        "Lionel Messi",
+        "Telmo Zarra",
+        "Alfredo Di Stéfano"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which Italian football club holds the record for the most Serie A titles won?",
+      "options": ["AC Milan", "Inter Milan", "Juventus", "Napoli"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "In which year was the first UEFA European Championship held?",
+      "options": ["1952", "1956", "1960", "1964"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "Which club has won the most consecutive Ligue 1 titles?",
+      "options": [
+        "Paris Saint-Germain",
+        "AS Saint-Étienne",
+        "Lille OSC",
+        "Olympique Lyonnais"
+      ],
+      "correctOption": 3,
+      "points": 20
+    }
+  ]
+}
